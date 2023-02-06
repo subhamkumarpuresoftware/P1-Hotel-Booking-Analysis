@@ -16,10 +16,10 @@ Different graphs are used in the EDA to understand the insights and make busines
 
 The libraries used in the EDA are.
 
-https://user-images.githubusercontent.com/124130717/216243635-cb98df3e-0ed6-456e-b5a2-86a73a9e31a6.png
+![image](https://user-images.githubusercontent.com/101591950/216896391-4da9792a-a61d-4ded-a3fd-591ebeb4f4af.png)
 
 The raw data contains 32 columns and 119390 rows.
 
 The Dataset info.
 
-https://user-images.githubusercontent.com/124130717/216248243-16b56386-fbe7-4ae7-a74c-a02412b18f47.png
+![image](https://user-images.githubusercontent.com/101591950/216896361-09f48ab5-bfff-4a13-80c3-c99632bfccb3.png)
