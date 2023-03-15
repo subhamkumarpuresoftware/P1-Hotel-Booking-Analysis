@@ -1,4 +1,6 @@
 # P1-Hotel-Booking-Analysis
+![image](https://user-images.githubusercontent.com/101591950/225243045-e864c698-9ade-4cf5-8c6d-c0a852c58435.png)
+
 EDA-Hotel-Booking-Analysis
 This project is related to Hotel Booking having two hotel description i.e City Hotel and Resort Hotel. In this dataset contains total rows 119390 and 32 columns.In this we divide data manipulation workflow in three category Data Collection ,Data cleaning and manipulation and EDA(Exploratory Data Analysis).
 
